@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "nome": "Farabbud Moema",
+        "mediaAvaliacoes": "4,5",
+        "totalAvaliacoes": 469,
+        "detalhe": {
+            "cozinhas": "Libanesa, Turca, Árabe",
+            "dietasEspeciais": "Opções vegetarianas, Opções veganas",
+            "refeicoes": "Almoço, Jantar",
+            "vantagens": ""
+        },
+        "contato": {
+            "site": "http://www.farabbud.com.br",
+            "email": "contato@farabbud.com.br",
+            "telefone": "+55 11 5054-1648"
+        },
+        "endereco": {
+            "rua": "Alameda dos Anapurus, 1253 Moema, São Paulo, Estado de São Paulo 04087-003 Brasil",
+            "numero": "1253",
+            "bairro": "Moema",
+            "cidade": "SP"
+        }
+    },
+    {
+        "id": 2,
+        "nome": "Mania de Churrasco! Prime Steak & Burger JK500",
+        "mediaAvaliacoes": "5",
+        "totalAvaliacoes": 1231,
+        "detalhe": {
+            "cozinhas": "Steakhouse, Brasileira, Churrasco, Grelhados",
+            "dietasEspeciais": "",
+            "refeicoes": "Almoço, Jantar, Aberto até tarde, Drinks",
+            "vantagens": "Entrega, Para levar, Reservas, Lugares para sentar, Estacionamento na rua, Televisão, Cadeiras para bebês, Acesso para cadeirantes, Serve bebida alcoólica, Vinho e cerveja, Aceita American Express, Aceita MasterCard, Aceita Visa, Wi-fi gratuito, Aceita cartão de crédito, Serviço de mesa, Áreas de lazer, Familiar, Restaurantes para não-fumantes, Bares de esportes"
+        },
+        "contato": {
+            "site": "http://www.maniadechurrasco.com.br",
+            "email": "prime.jk500@maniadechurrasco.com",
+            "telefone": "+55 11 3078-4252"
+        },
+        "endereco": {
+            "rua": "Avenida Presidente Juscelino Kubitschek, 500 Esquina com Rua Bandeira Paulista, São Paulo, Estado de São Paulo 04532-002 Brasil",
+            "numero": "500",
+            "bairro": "Pinheiros",
+            "cidade": "SP"
+        }
+    },
+    {
+        "id": 3,
+        "nome": "Baggio Pizzaria & Focacceria Moema",
+        "mediaAvaliacoes": "5",
+        "totalAvaliacoes": 93,
+        "detalhe": {
+            "cozinhas": "Italiana, Pizza",
+            "dietasEspeciais": "",
+            "refeicoes": "Jantar",
+            "vantagens": "Entrega, Para levar, Reservas, Lugares para sentar, Serve bebida alcoólica, Vinho e cerveja, Aceita cartão de crédito, Serviço de mesa, Familiar"
+        },
+        "contato": {
+            "site": "https://pizzariabaggio.com.br",
+            "email": "baggiomoema@gmail.com",
+            "telefone": "+55 11 4240-6577"
+        },
+        "endereco": {
+            "rua": "Alameda Jauaperi 1201, São Paulo, Estado de São Paulo 04523-015 Brasil",
+            "numero": "1201",
+            "bairro": "Moema",
+            "cidade": "SP"
+        }
+    },
+    {
+        "id": 4,
+        "nome": "O'Malley's",
+        "mediaAvaliacoes": "4",
+        "totalAvaliacoes": 860,
+        "detalhe": {
+            "cozinhas": "Irlandesa, Bar, Britânica, Pub",
+            "dietasEspeciais": "",
+            "refeicoes": "Jantar, Aberto até tarde, Drinks",
+            "vantagens": "Lugares para sentar, Televisão, Serve bebida alcoólica, Bar completo, Wi-fi gratuito, Aceita cartão de crédito, Serviço de mesa, Música ao vivo"
+        },
+        "contato": {
+            "site": "http://omalleysbar.net",
+            "email": "party@omalleysbar.net",
+            "telefone": "+55 11 3086-0780"
+        },
+        "endereco": {
+            "rua": "Alameda Itu 1529, São Paulo, Estado de São Paulo 01421-005 Brasil",
+            "numero": "1529",
+            "bairro": "Pinheiros",
+            "cidade": "SP"
+        }
+    },
+    {
+        "id": 5,
+        "nome": "Johnny Rockets",
+        "mediaAvaliacoes": "4.5",
+        "totalAvaliacoes": 428,
+        "detalhe": {
+            "cozinhas": "Americana",
+            "dietasEspeciais": "Opções vegetarianas, Opções veganas",
+            "refeicoes": "Almoço, Jantar, Brunch",
+            "vantagens": ""
+        },
+        "contato": {
+            "site": "http://www.johnnyrockets.com.br",
+            "email": "sandrini.ataujo@gmail.com",
+            "telefone": "+55 11 5184-1941"
+        },
+        "endereco": {
+            "rua": "Avenida Roque Petroni Júnior, 1.089 Morumbi Shopping Loja 30D, São Paulo, Estado de São Paulo 04707-000 Brasil",
+            "numero": "1089",
+            "bairro": "Morumbi",
+            "cidade": "SP"
+        }
+    }
+]
